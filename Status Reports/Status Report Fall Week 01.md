@@ -1,4 +1,4 @@
-# *CS 25-XXX my awesome project *
+# *CS 25-XXX my awesome project #
 
 **Students' Names:**
 - Java Bean - CS - Student Team Member
