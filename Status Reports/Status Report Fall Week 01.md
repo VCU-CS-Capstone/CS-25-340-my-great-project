@@ -11,7 +11,7 @@
 
 **Faculty Advisor:**
 - Dr. Ada Kernigan  - CS - Faculty Advisor
-- 
+  
 ## 1) Accomplishments this week ##
    - investigate databases done by Java
    - make flowcharts done by Bitsy and Pip
